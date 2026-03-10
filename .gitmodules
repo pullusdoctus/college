@@ -13,12 +13,6 @@
 [submodule "probabilidad-y-estadistica"]
 	path = probabilidad-y-estadistica
 	url = https://github.com/pullusdoctus/probabilidad-y-estadistica
-[submodule "Ci0123_25b_ipv3"]
-	path = Ci0123_25b_ipv3
-	url = https://github.com/AdrianMiguel99/Ci0123_25b_ipv3.git
 [submodule "proyectos-los-np-duros"]
 	path = proyectos-los-np-duros
 	url = https://github.com/UCR-ECCI-MM/proyectos-los-np-duros.git
-[submodule "Networks-OS"]
-	path = Networks-OS
-	url = https://github.com/pullusdoctus/Networks-OS.git
