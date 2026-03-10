@@ -16,3 +16,6 @@
 [submodule "proyectos-los-np-duros"]
 	path = proyectos-los-np-duros
 	url = https://github.com/UCR-ECCI-MM/proyectos-los-np-duros.git
+[submodule "CI0123-Redes"]
+	path = CI0123-Redes
+	url = git@github.com:pullusdoctus/CI0123-Redes.git
