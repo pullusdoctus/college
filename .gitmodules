@@ -19,3 +19,6 @@
 [submodule "CI0123-Redes"]
 	path = CI0123-Redes
 	url = git@github.com:pullusdoctus/CI0123-Redes.git
+[submodule "CI0123-G3-E2"]
+	path = CI0123-G3-E2
+	url = git@github.com:pullusdoctus/CI0123-G3-E2.git
